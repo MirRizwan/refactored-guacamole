@@ -8,7 +8,7 @@ class Movies extends Component{
     state = {
         movies: getMovies(),
         currentPage: 1,
-        postsPerPage: 5
+        postsPerPage: 8
     }
 
     
